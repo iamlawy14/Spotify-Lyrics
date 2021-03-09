@@ -30,7 +30,9 @@
         "*://www.deezer.com/*",
         "*://music.youtube.com/*",
         "*://music.apple.com/*",
-        "*://listen.tidal.com/*"
+        "*://listen.tidal.com/*",
+        "*://nhaccuatui.com/*",
+        "*://beta.nhaccuatui.com/*"
       ],
       "js": [
         "content.js"
@@ -43,7 +45,9 @@
         "*://www.deezer.com/*",
         "*://music.youtube.com/*",
         "*://music.apple.com/*",
-        "*://listen.tidal.com/*"
+        "*://listen.tidal.com/*",
+        "*://nhaccuatui.com/*",
+        "*://beta.nhaccuatui.com/*"
       ],
       "js": [
         "options.js"
